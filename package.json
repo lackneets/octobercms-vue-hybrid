@@ -1,11 +1,11 @@
 {
-  "name": "frontend-vue",
-  "version": "0.1.0",
+  "name": "octobercms-vue-hybrid",
+  "version": "1.0.0",
   "private": true,
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
-    "watch": "vue-cli-service build --watch --mode development --hmr",
+    "watch": "vue-cli-service build --watch --mode development",
     "lint": "vue-cli-service lint"
   },
   "dependencies": {
